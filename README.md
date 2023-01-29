@@ -96,3 +96,16 @@ used in application where the application manage and manintain collection of dif
 * used in application where we need to change the behavior of an object based on its state
 
 # Strategy Pattern
+* allow to create a family of algorithms , encapsulate each one , and make them interchangeable , strategy lets the algorithm vary independently from clients that use it 
+* used in application where we need to select an algorithm at runtime
+
+# Template Method Pattern
+* allow to create a template that can be used to create a set of instructions
+* provides an outline of a series of steps for an algorithm. Objects that implement these steps retain the original structure of the algorithm but have the option to redefine or adjust certain steps
+
+# Visitor Pattern
+*  allow to create a new operation without changing the classes of the elements on which it operates
+
+# MVC Pattern
+* is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements. This is done to separate internal representations of information from the ways information is presented to and accepted from the user. The MVC design pattern decouples these major components allowing for efficient code reuse and parallel development.
+
